@@ -11,3 +11,7 @@
 ## Crear cuenta en Github
 ## Crear primer repositorio
 ## Modificar el archivo README
+
+## 13/08/26 Segunda clase Metodos Estadisticos
+## Activar credenciales
+## Crear usuario en Github
