@@ -14,4 +14,4 @@
 
 ## 13/08/26 Segunda clase Metodos Estadisticos
 ## Activar credenciales
-## Crear usuario en Github
+## Crear usuario en Gitbash
