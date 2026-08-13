@@ -15,3 +15,4 @@
 + 13/08/26 Segunda clase Metodos Estadisticos
 + Activar credenciales
 + Crear usuario en Gitbash
++ -
