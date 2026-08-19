@@ -37,4 +37,5 @@
  #Boxplot de los datos
  
  boxplot(Obs$IE )
+ #cACHANA
 
