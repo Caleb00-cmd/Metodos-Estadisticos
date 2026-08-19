@@ -36,6 +36,13 @@
  
  #Boxplot de los datos
  
- boxplot(Obs$IE )
- #cACHANA
+ boxplot(Obs$IE ~ Obs$Tratamiento )
+         xlab = "Factor = Fertilizante",
+         ylab = "Indice (IE)",
+         col  = "ligthblue",
+         main = "Unidad Experimental")
+         
+#Cachana         
+ 
+ 
 
