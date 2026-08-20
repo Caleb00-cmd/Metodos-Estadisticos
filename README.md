@@ -36,13 +36,16 @@
  
  #Boxplot de los datos
  
- boxplot(Obs$IE ~ Obs$Tratamiento )
-         xlab = "Factor = Fertilizante",
-         ylab = "Indice (IE)",
-         col  = "ligthblue",
-         main = "Unidad Experimental")
+ boxplot(Obs$IE ~ Obs$Tratamiento,
+   xlab = "Factor = Fertilizante",
+   ylab = "Indice (IE)",
+   col = "ligthblue",
+   main = "Unidad experimental"
+   
          
 ## Semana 3 clase 4 Metodos Estadisticos 20/08/26
+
+
 
 
  
