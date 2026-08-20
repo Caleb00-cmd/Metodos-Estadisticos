@@ -24,8 +24,8 @@
 
 + Importar datos
 + Usar la funcion #read.cvs# para importar datos de excel
-# Declarar la columna tratamiento como factor y sus 2 niveles
-# utilice la funcion #as.factor#
++ Declarar la columna tratamiento como factor y sus 2 niveles
++ utilice la funcion #as.factor#
 
  Obs <- read.csv("VIVERO.csv", header= TRUE)
  Obs$IE
@@ -42,7 +42,9 @@
          col  = "ligthblue",
          main = "Unidad Experimental")
          
-#Cachana         
+#Semana 3 clase 4 Metodos Estadisticos 20/08/26
+
+
  
  
 
