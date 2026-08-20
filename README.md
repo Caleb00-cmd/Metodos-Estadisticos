@@ -42,7 +42,7 @@
          col  = "ligthblue",
          main = "Unidad Experimental")
          
-#Semana 3 clase 4 Metodos Estadisticos 20/08/26
+## Semana 3 clase 4 Metodos Estadisticos 20/08/26
 
 
  
