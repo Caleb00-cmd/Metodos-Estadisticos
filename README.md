@@ -28,7 +28,6 @@
 + utilice la funcion #as.factor#
 
  Obs <- read.csv("VIVERO.csv", header= TRUE)
- Obs$IE
  Obs$Tratamiento <- as.factor (Obs$Tratamiento)
  Obs$Tratamiento
  
@@ -36,14 +35,15 @@
  
  #Boxplot de los datos
  
- boxplot(Obs$IE ~ Obs$Tratamiento,
-   xlab = "Factor = Fertilizante",
-   ylab = "Indice (IE)",
-   col = "ligthblue",
-   main = "Unidad experimental"
+boxplot(Obs$IE ~ Obs$Tratamiento,
+xlab = "Factor = Fertilizante",
+ylab = "Indice (IE)",
+col = "blue",
+main = "Unidad experimental")
    
-         
+   
 ## Semana 3 clase 4 Metodos Estadisticos 20/08/26
+
 
 
 
