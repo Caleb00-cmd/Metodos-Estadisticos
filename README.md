@@ -25,7 +25,7 @@
 + Importar datos
 + Usar la funcion #read.cvs# para importar datos de excel
 + Declarar la columna tratamiento como factor y sus 2 niveles
-+ utilice la funcion #as.factor#
++ utilice la funcion #as.factor##
 
  Obs <- read.csv("VIVERO.csv", header= TRUE)
  Obs$Tratamiento <- as.factor (Obs$Tratamiento)
@@ -43,6 +43,33 @@ main = "Unidad experimental")
    
    
 ## Semana 3 clase 4 Metodos Estadisticos 20/08/26
+
+
+
+
+
+
+
+#Semana 4 clase 6 Metodos Estadisticos 27/08/26
+
++Realize tarea de Laboratorio 1
++Subi tarea de Laboratorio 1
+
+
+
+
+
+#Semana 5 Clase Metodos Estadisticos 02/09/26
+
+
+
+
+
+
+
+
+
+
 
 
 
