@@ -92,7 +92,9 @@ hhjsk
 
 
 
-#Semana 5 Clase Metodos Estadisticos 03/09/26
+#Clase Metodos Estadisticos 09/09/26
+
++Realize tarea de examen parcial
 
 
 
