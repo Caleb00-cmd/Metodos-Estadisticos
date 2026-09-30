@@ -174,7 +174,41 @@ median((RW = c(1.42, 1.58, 1.71, 1.63, 1.85, 1.94, 2.06, 1.76, 1.68, 1.89, 2.14,
 range.Date(1.42, 1.58, 1.71, 1.63, 1.85, 1.94, 2.06, 1.76, 1.68, 1.89, 2.14, 1.53, 1.79, 1.97, 2.23, 1.61, 1.82, 2.08, 1.73, 1.87, 1.91, 2.04, 1.76, 1.83, 2.12, 1.69, 1.57, 1.88, 2.21, 1.95, 1.74, 1.81, 2.09, 1.66, 1.92, 2.17, 1.72, 1.86, 2.02, 3.48)
 
 
-   
+#Clase Metodos Estadisticos 30/09/26
+
+#correlacion continuacion
+
+#ingresar pares de datos
+
+x3 <- c(10.0, 8.0, 13.0, 9.0, 11.0, 14.0, 6.0, 4.0, 12.0, 7.0, 5.0)
+y3 <- c(7.46, 6.77, 12.74, 7.11, 7.81, 8.84, 6.08, 5.39, 8.15, 6.42, 5.73)
+
+mean(x3)
+mean(y3)
+
+cor.test(x3, y3)
+
+
+#Grafica de los datos
+
+par(mfrow = c(2,2))
+plot(x3, y3, col= "blue",
+      main= "Conjunto 3")
+      
+plot(x3, y3, col = "red",
+      main= "Conjunto 3")  
+      
+plot(x3, y3, col= "green",
+      main= "Conjunto 3")
+      
+plot(x3, y3, col= "gray",
+      main= "Conjunto 3") 
+      
+hwdjh      
+      
+
+
+
      
 
 
